@@ -35,7 +35,7 @@ A simple Python utility that allows users to convert temperatures between **Cels
 ## Installation and Setup
 
 ### 1. Clone or Download the Project
-- Clone the repository or download the project files! (Michael was here.)
+- Clone the repository or download the project files! (Michael was here... Again!)
 
 ### 2. Set Up a Virtual Environment (Optional but Recommended)
 - Create a virtual environment:
